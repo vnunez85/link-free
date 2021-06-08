@@ -1,16 +1,22 @@
 title: Link free
 shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
-description: ''
-lang: en
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+  esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+  non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 logo: logo.png
 favicon: favicon.png
-rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  DEFAULT: "#FAFAFA"
+  highlight: "#fdba21"
+  accent: "#262626"
+  background: "#000000"
+rounded: "9"
+siteUrl: https://vicnunez.com
+lang: en
 tracking:
   which: none
-  id: ''
+  id: ""
+  label: none
